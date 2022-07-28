@@ -15,8 +15,8 @@ Before installing npm modules and run the project, create '.env' file to the pro
 
 
 Now, run following commands:
->npm install
->npm install nodemon -D
+>npm install &&
+>npm install nodemon -D &&
 >npm start
 
 App runs on the port 6000 or else provide port value in .env file
